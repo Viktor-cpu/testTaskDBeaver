@@ -1,4 +1,4 @@
-![ScreenShot](https://raw.github.com/Viktor-cpu/testTaskDBeaver/devel/СкринТестовоеЗадание.jpg
+![Alt Text](https://raw.github.com/Viktor-cpu/testTaskDBeaver/devel/СкринТестовоеЗадание.jpg)
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/dbeaver_news.svg?style=social&label=Follow%20%40dbeaver_news)](https://twitter.com/dbeaver_news)
 [![Build Status](https://travis-ci.org/dbeaver/dbeaver.svg?branch=devel)](https://travis-ci.org/dbeaver/dbeaver)
